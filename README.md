@@ -73,6 +73,15 @@
 
 ![总控面板](./pic/Snipaste_2023-03-06_16-52-45.png)
 
+## 下载
+
+[点此下载](https://github.com/c1921/C4D_Sea_cucumber/releases)
+
+## 注意
+
+> [!IMPORTANT]
+> 该工程文件使用 Maxon Cinema 4D 2023 和 OctaneRender 2022.1-R7 制作。
+
 ---
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
