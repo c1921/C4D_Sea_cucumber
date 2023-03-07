@@ -86,7 +86,7 @@
 
 [点此下载](https://github.com/c1921/C4D_Sea_cucumber/releases)
 
----
+## 许可证
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
