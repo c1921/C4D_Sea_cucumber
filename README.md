@@ -75,12 +75,10 @@
 
 ## 下载
 
-[点此下载](https://github.com/c1921/C4D_Sea_cucumber/releases)
-
-## 注意
-
-> [!IMPORTANT]
+> **Note**
 > 该工程文件使用 Maxon Cinema 4D 2023 和 OctaneRender 2022.1-R7 制作。
+
+[点此下载](https://github.com/c1921/C4D_Sea_cucumber/releases)
 
 ---
 
